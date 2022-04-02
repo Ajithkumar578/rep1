@@ -7,6 +7,7 @@ public class javaclass {
 	}
 	public static void main(String[] args) {
 		javaclass f=new javaclass();
+		System.out.println(f);
 	}
 	
 }
